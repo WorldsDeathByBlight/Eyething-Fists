@@ -1,0 +1,32 @@
+{
+  "replacement_rules": [
+    {
+      "name": "attack",
+      "replace_ids": [
+        13160401062
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/WorldsDeathByBlight/Eyething-Fists/raw/refs/heads/main/eyething%20punch.mp3"
+    },
+    {
+      "name": "inspect",
+      "replace_ids": [
+        13160489311
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/WorldsDeathByBlight/Eyething-Fists/raw/refs/heads/main/eyething%20crack.mp3"
+    },
+    {
+      "name": "fists",
+      "replace_ids": [
+        12307734932,
+        12307583853
+      ],
+      "mode": "cdn",
+      "enabled": true,
+      "cdn_url": "https://github.com/WorldsDeathByBlight/Eyething-Fists/raw/refs/heads/main/eyething%20fists.obj"
+    }
+  ]
+}
